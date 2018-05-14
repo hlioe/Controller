@@ -8,7 +8,7 @@ In this project, the LateralPositionControl will be implemented in a 2-cascaded 
 ### Controller Block Diagram (* borrowed from Udacity Self-Flying Lecture Video Slide)
 <br>
 <div class="container" style="width: 100%;">
- <div class="D1 col-sm-6" style="width: 80%;">
+ <div class="D1 col-sm-6" style="width: 100%;">
    <img src="3D_PID.png" height="100">
  </div>
 </div>
@@ -23,7 +23,7 @@ Correspondingly the derivative of the state vector in time will have the next fo
 
 <br>
 <div class="container" style="width: 100%;">
- <div class="D1 col-sm-6" style="width: 40%;">
+ <div class="D1 col-sm-6" style="width: 100%;">
    <img src="Drone1.png" height="5">
  </div>
 </div>
