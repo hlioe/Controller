@@ -24,7 +24,7 @@ Correspondingly the derivative of the state vector in time will have the next fo
 <br>
 <div class="container" style="width: 100%;">
  <div class="D1 col-sm-6" style="width: 100%;">
-   <img src="Drone1.png" height="5">
+   <img src="Drone1.png" height="100">
  </div>
 </div>
 <br>
